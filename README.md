@@ -23,13 +23,13 @@ Or install it yourself as:
 Write require in your application.js:
 
 ```js
-//= require jquery-peity
+//= require jquery.peity
 ```
 
 or in application.js.coffee:
 
 ```coffee
-#= require jquery-peity
+#= require jquery.peity
 ```
 
 ## Contributing
